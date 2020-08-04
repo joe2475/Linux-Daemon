@@ -1,6 +1,4 @@
 //Joseph Barsis
-//cs3377.501
-//jtb170930@utdallas.edu
 
 #define MAX_EVENTS 1024
 #define LEN_NAME 16
