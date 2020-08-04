@@ -1,6 +1,4 @@
 //Joseph Barsis
-//cs3377.501
-//jtb170930@utdallas.edu
 
 #include <iostream>
 #include <map>
